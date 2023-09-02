@@ -1,2 +1,5 @@
-# Qua_pyLib
-Basit fonksiyonlarla oluşturulmuş bir kütüphane
+# Qua Python Library
+
+• Basit fonksiyonlarla oluşturulmuş bir kütüphanedir
+
+
