@@ -1,4 +1,4 @@
-# Qua Python Library - QuartzzDev <3
+# Qua Python Library - QuartzzDev <3 
 
 TR :   
 -----------------
